@@ -68,7 +68,10 @@ public class DataInitializer {
                     create("httpbin_status_500", "https://httpbin.org/status/500", "httpbin 500", "Testing"),
                     create("httpbin_delay", "https://httpbin.org/delay/2", "httpbin Delay", "Testing"),
                     create("spotify_api", "https://api.spotify.com/v1/search?q=artist:drake&type=track", "Spotify API", "Media"),
-                    create("itunes_api", "https://itunes.apple.com/search?term=jack+johnson", "iTunes Search API", "Media")
+                    create("itunes_api", "https://itunes.apple.com/search?term=jack+johnson", "iTunes Search API", "Media"),
+                    create("reddit_api", "https://www.reddit.com/r/popular.json", "Reddit API", "Social"),
+                    create("steam_api", "https://store.steampowered.com/api/appdetails?appids=440", "Steam API", "Gaming")
+
             );
 
             repository.saveAll(services);
