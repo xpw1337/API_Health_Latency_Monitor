@@ -13,7 +13,11 @@ A small, infrastructure-focused monitoring app that continuously pings dozens of
 - **Controls**: time window (15m / 1h / 4h), status filter, auto-refresh every 15s, manual refresh
 
 ---
+## Showcase
 
+
+
+---
 ## Tech stack
 
 | Layer   | Stack |
