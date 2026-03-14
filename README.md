@@ -15,7 +15,7 @@ A small, infrastructure-focused monitoring app that continuously pings dozens of
 ---
 ## Showcase
 
-
+![Showcase Image](images/showcase.png)
 
 ---
 ## Tech stack
